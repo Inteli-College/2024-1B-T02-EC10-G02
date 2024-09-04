@@ -37,3 +37,4 @@ O projeto **"Contagem do número de árvores através de imagens de satélites/d
 
 A matriz de risco apresentada oferece uma visão detalhada dos desafios potenciais que o projeto de contagem de árvores da Abundance Brasil pode enfrentar. Ao identificar e mitigar esses riscos de forma proativa, a equipe pode aumentar as chances de sucesso do projeto, garantindo que a tecnologia desenvolvida cumpra seu objetivo de proteger e restaurar florestas de maneira eficaz e sustentável.
 
+link: https://docs.google.com/spreadsheets/d/1omzAJnkNGX5pZqkDR27ea5RAewpryWzU8yOHJ7q8COA/edit?gid=0#gid=0
