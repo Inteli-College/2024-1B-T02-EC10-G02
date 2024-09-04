@@ -1,6 +1,6 @@
 ---
 id: matriz-de-risco-projeto-contagem-arvores
-title: Matriz de Risco - Projeto Contagem do número de árvores através de imagens de satélites/drones
+title: Matriz de Risco 
 ---
 
 ## Introdução
